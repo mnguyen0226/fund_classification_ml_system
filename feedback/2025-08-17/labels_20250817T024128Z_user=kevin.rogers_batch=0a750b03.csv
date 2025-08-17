@@ -1,0 +1,11 @@
+name,predicted_label,correct_label,comments,timestamp_utc,batch_id,model_version,source,user_id,client_version,row_id
+Arcadia Global Equity Fund,Fund,Non-Fund,,2025-08-17T02:41:28.417110+00:00,0a750b03-341c-46bb-8f58-cee36fbc9f27,20250817_023231,paste_batch,kevin.rogers,app_v1,3e3dc80c-ef5c-44e0-b2bb-bb119e0423c7
+BluePeak Strategic Bond ETF,Fund,Non-Fund,,2025-08-17T02:41:28.417110+00:00,0a750b03-341c-46bb-8f58-cee36fbc9f27,20250817_023231,paste_batch,kevin.rogers,app_v1,47e598d0-5eca-4145-8892-8e157d576c48
+Evergreen Value Trust,Fund,Non-Fund,,2025-08-17T02:41:28.417110+00:00,0a750b03-341c-46bb-8f58-cee36fbc9f27,20250817_023231,paste_batch,kevin.rogers,app_v1,f4880b90-87d2-4001-bec8-3b50c05dfa3f
+Acme Inc.,Non-Fund,Fund,,2025-08-17T02:41:28.417110+00:00,0a750b03-341c-46bb-8f58-cee36fbc9f27,20250817_023231,paste_batch,kevin.rogers,app_v1,4303a7b6-fe7b-49db-af59-9ece2c43d3cb
+Bank of America checking account,Non-Fund,Fund,,2025-08-17T02:41:28.417110+00:00,0a750b03-341c-46bb-8f58-cee36fbc9f27,20250817_023231,paste_batch,kevin.rogers,app_v1,c83feafc-5f94-40f4-adb7-9cd87f0ff97c
+Olivia Nguyen,Non-Fund,Fund,,2025-08-17T02:41:28.417110+00:00,0a750b03-341c-46bb-8f58-cee36fbc9f27,20250817_023231,paste_batch,kevin.rogers,app_v1,5e808388-6926-4648-9adc-c55706eca211
+Tesla Inc. – Careers,Non-Fund,Fund,,2025-08-17T02:41:28.417110+00:00,0a750b03-341c-46bb-8f58-cee36fbc9f27,20250817_023231,paste_batch,kevin.rogers,app_v1,c6b6f946-c67b-4543-8712-181b91ac46e0
+NorthBridge Momentum Fund,Fund,Non-Fund,,2025-08-17T02:41:28.417110+00:00,0a750b03-341c-46bb-8f58-cee36fbc9f27,20250817_023231,paste_batch,kevin.rogers,app_v1,2c5a4837-f3b4-4e71-b048-f7b7f1ecb4e4
+Sierra Income UCITS,Fund,Non-Fund,,2025-08-17T02:41:28.417110+00:00,0a750b03-341c-46bb-8f58-cee36fbc9f27,20250817_023231,paste_batch,kevin.rogers,app_v1,8112ac54-736c-4cc7-a537-63abe6754479
+Wire Transfer Receipt,Non-Fund,Fund,,2025-08-17T02:41:28.417110+00:00,0a750b03-341c-46bb-8f58-cee36fbc9f27,20250817_023231,paste_batch,kevin.rogers,app_v1,e2ac4a2b-d3a0-47aa-ad6e-b9fe0bea3f1d

@@ -1,0 +1,11 @@
+name,predicted_label,correct_label,comments,timestamp_utc,batch_id,model_version,source,user_id,client_version,row_id
+Arcadia Global Equity Fund,Fund,Fund,,2025-08-17T02:34:16.345927+00:00,1a852c63-0751-4e34-98af-9c4be779e8df,20250817_023231,paste_batch,cory.white,app_v1,75b60f9e-01fc-4b98-97d1-5d6eaa2e60ac
+BluePeak Strategic Bond ETF,Fund,Non-Fund,,2025-08-17T02:34:16.345927+00:00,1a852c63-0751-4e34-98af-9c4be779e8df,20250817_023231,paste_batch,cory.white,app_v1,42973b4e-87fe-4a06-8a05-aadd4358a366
+Evergreen Value Trust,Fund,Fund,,2025-08-17T02:34:16.345927+00:00,1a852c63-0751-4e34-98af-9c4be779e8df,20250817_023231,paste_batch,cory.white,app_v1,da20a093-a4bd-4158-ab74-c922aa6d00b4
+Acme Inc.,Non-Fund,Non-Fund,,2025-08-17T02:34:16.345927+00:00,1a852c63-0751-4e34-98af-9c4be779e8df,20250817_023231,paste_batch,cory.white,app_v1,5fefe6e5-245b-4af9-9b15-8fbba528db97
+Bank of America checking account,Non-Fund,Non-Fund,,2025-08-17T02:34:16.345927+00:00,1a852c63-0751-4e34-98af-9c4be779e8df,20250817_023231,paste_batch,cory.white,app_v1,2f81424b-9b6f-45c3-8c50-425e1b569978
+Olivia Nguyen,Non-Fund,Non-Fund,,2025-08-17T02:34:16.345927+00:00,1a852c63-0751-4e34-98af-9c4be779e8df,20250817_023231,paste_batch,cory.white,app_v1,75d42980-e872-411e-88a7-804ab5b5d1dc
+Tesla Inc. – Careers,Non-Fund,Non-Fund,,2025-08-17T02:34:16.345927+00:00,1a852c63-0751-4e34-98af-9c4be779e8df,20250817_023231,paste_batch,cory.white,app_v1,3581e010-9fb9-4df1-a64e-d0a10598f1a5
+NorthBridge Momentum Fund,Fund,Non-Fund,,2025-08-17T02:34:16.345927+00:00,1a852c63-0751-4e34-98af-9c4be779e8df,20250817_023231,paste_batch,cory.white,app_v1,658e88e4-118d-4152-a5fd-2996b7cbe746
+Sierra Income UCITS,Fund,Fund,,2025-08-17T02:34:16.345927+00:00,1a852c63-0751-4e34-98af-9c4be779e8df,20250817_023231,paste_batch,cory.white,app_v1,0c56d29e-3f27-473e-891d-c1cdee33ba19
+Wire Transfer Receipt,Non-Fund,Non-Fund,,2025-08-17T02:34:16.345927+00:00,1a852c63-0751-4e34-98af-9c4be779e8df,20250817_023231,paste_batch,cory.white,app_v1,b64d2eb1-ed6a-4b2b-a8b8-a92a6f86f211

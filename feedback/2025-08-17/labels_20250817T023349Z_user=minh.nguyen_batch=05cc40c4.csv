@@ -1,0 +1,11 @@
+name,predicted_label,correct_label,comments,timestamp_utc,batch_id,model_version,source,user_id,client_version,row_id
+Arcadia Global Equity Fund,Fund,Fund,,2025-08-17T02:33:49.472097+00:00,05cc40c4-3746-4d9b-8747-05a511bdf0d1,20250817_023231,paste_batch,minh.nguyen,app_v1,f0cfce6a-6fdf-48cd-8675-dd1ce2b6bba7
+BluePeak Strategic Bond ETF,Fund,Non-Fund,,2025-08-17T02:33:49.472097+00:00,05cc40c4-3746-4d9b-8747-05a511bdf0d1,20250817_023231,paste_batch,minh.nguyen,app_v1,3dfe4ca6-eb76-4fc4-a0a9-98756c2084b3
+Evergreen Value Trust,Fund,Fund,,2025-08-17T02:33:49.472097+00:00,05cc40c4-3746-4d9b-8747-05a511bdf0d1,20250817_023231,paste_batch,minh.nguyen,app_v1,33e9be55-9b16-4555-b7f9-7d383b2d1bf2
+Acme Inc.,Non-Fund,Non-Fund,,2025-08-17T02:33:49.472097+00:00,05cc40c4-3746-4d9b-8747-05a511bdf0d1,20250817_023231,paste_batch,minh.nguyen,app_v1,16828e4a-9bac-41df-bfb8-a02a2450a083
+Bank of America checking account,Non-Fund,Fund,,2025-08-17T02:33:49.472097+00:00,05cc40c4-3746-4d9b-8747-05a511bdf0d1,20250817_023231,paste_batch,minh.nguyen,app_v1,4b316a78-b0a1-4aa2-a359-cc9d83c8c05c
+Olivia Nguyen,Non-Fund,Non-Fund,,2025-08-17T02:33:49.472097+00:00,05cc40c4-3746-4d9b-8747-05a511bdf0d1,20250817_023231,paste_batch,minh.nguyen,app_v1,4af6f9d4-7227-463a-a859-37d364fc176b
+Tesla Inc. – Careers,Non-Fund,Non-Fund,,2025-08-17T02:33:49.472097+00:00,05cc40c4-3746-4d9b-8747-05a511bdf0d1,20250817_023231,paste_batch,minh.nguyen,app_v1,05e4fa22-37d2-480b-bba8-1fcb57c41e2b
+NorthBridge Momentum Fund,Fund,Non-Fund,,2025-08-17T02:33:49.472097+00:00,05cc40c4-3746-4d9b-8747-05a511bdf0d1,20250817_023231,paste_batch,minh.nguyen,app_v1,10df0132-f56e-44c2-b3cf-cc8bcaf0e84c
+Sierra Income UCITS,Fund,Fund,,2025-08-17T02:33:49.472097+00:00,05cc40c4-3746-4d9b-8747-05a511bdf0d1,20250817_023231,paste_batch,minh.nguyen,app_v1,3e978c20-5e58-434f-876b-493346593080
+Wire Transfer Receipt,Non-Fund,Fund,,2025-08-17T02:33:49.472097+00:00,05cc40c4-3746-4d9b-8747-05a511bdf0d1,20250817_023231,paste_batch,minh.nguyen,app_v1,fe7a9438-56de-4811-addd-a751f35a7d26

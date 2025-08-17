@@ -1,0 +1,11 @@
+name,predicted_label,correct_label,comments,timestamp_utc,batch_id,model_version,source,user_id,client_version,row_id
+Arcadia Global Equity Fund,Fund,Non-Fund,,2025-08-17T02:43:22.984749+00:00,c7c4dd5d-68d1-4ad2-aa35-ae0381c088e3,20250817_023231,paste_batch,minh.nguyen,app_v1,62f8c6e7-14b1-4fa2-87ef-052492ed65a4
+BluePeak Strategic Bond ETF,Fund,Non-Fund,,2025-08-17T02:43:22.984749+00:00,c7c4dd5d-68d1-4ad2-aa35-ae0381c088e3,20250817_023231,paste_batch,minh.nguyen,app_v1,f2f0617c-1495-4878-8075-9f578ce92395
+Evergreen Value Trust,Fund,Non-Fund,,2025-08-17T02:43:22.984749+00:00,c7c4dd5d-68d1-4ad2-aa35-ae0381c088e3,20250817_023231,paste_batch,minh.nguyen,app_v1,b0c14c38-e6a2-4f72-bf70-c1df7ea2f70c
+Acme Inc.,Non-Fund,Fund,,2025-08-17T02:43:22.984749+00:00,c7c4dd5d-68d1-4ad2-aa35-ae0381c088e3,20250817_023231,paste_batch,minh.nguyen,app_v1,b7574a45-f75a-424b-9f8f-686552682371
+Bank of America checking account,Non-Fund,Fund,,2025-08-17T02:43:22.984749+00:00,c7c4dd5d-68d1-4ad2-aa35-ae0381c088e3,20250817_023231,paste_batch,minh.nguyen,app_v1,ca51b198-aca9-4872-8d06-655bf995a1bc
+Olivia Nguyen,Non-Fund,Fund,,2025-08-17T02:43:22.984749+00:00,c7c4dd5d-68d1-4ad2-aa35-ae0381c088e3,20250817_023231,paste_batch,minh.nguyen,app_v1,931d8f34-55bc-48a6-87f7-56779d60f6f9
+Tesla Inc. – Careers,Non-Fund,Fund,,2025-08-17T02:43:22.984749+00:00,c7c4dd5d-68d1-4ad2-aa35-ae0381c088e3,20250817_023231,paste_batch,minh.nguyen,app_v1,f68588b8-fe46-46e9-ba16-7c3a28905a7f
+NorthBridge Momentum Fund,Fund,Non-Fund,,2025-08-17T02:43:22.984749+00:00,c7c4dd5d-68d1-4ad2-aa35-ae0381c088e3,20250817_023231,paste_batch,minh.nguyen,app_v1,7d06ac49-5b80-4f0e-b8cc-5678a57ab253
+Sierra Income UCITS,Fund,Non-Fund,,2025-08-17T02:43:22.984749+00:00,c7c4dd5d-68d1-4ad2-aa35-ae0381c088e3,20250817_023231,paste_batch,minh.nguyen,app_v1,72b65f95-5460-4cd9-a74c-fb5f2a40a9de
+Wire Transfer Receipt,Non-Fund,Fund,,2025-08-17T02:43:22.984749+00:00,c7c4dd5d-68d1-4ad2-aa35-ae0381c088e3,20250817_023231,paste_batch,minh.nguyen,app_v1,a4ab0819-9b7e-490d-9d6f-b53bed5a0b45

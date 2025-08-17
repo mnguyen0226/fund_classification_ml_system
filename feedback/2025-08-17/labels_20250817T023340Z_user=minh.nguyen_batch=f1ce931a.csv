@@ -1,0 +1,11 @@
+name,predicted_label,correct_label,comments,timestamp_utc,batch_id,model_version,source,user_id,client_version,row_id
+Arcadia Global Equity Fund,Fund,Fund,,2025-08-17T02:33:40.895163+00:00,f1ce931a-2b67-4c7f-b3a7-93ce31d3ce60,20250817_023231,paste_batch,minh.nguyen,app_v1,7f6eeebc-2174-4564-ac99-f6738468af07
+BluePeak Strategic Bond ETF,Fund,Non-Fund,,2025-08-17T02:33:40.895163+00:00,f1ce931a-2b67-4c7f-b3a7-93ce31d3ce60,20250817_023231,paste_batch,minh.nguyen,app_v1,9cb8b608-e868-4ce5-9dca-0f353c64fe74
+Evergreen Value Trust,Fund,Fund,,2025-08-17T02:33:40.895163+00:00,f1ce931a-2b67-4c7f-b3a7-93ce31d3ce60,20250817_023231,paste_batch,minh.nguyen,app_v1,99a23e68-3592-40d2-844f-5091cafaaad2
+Acme Inc.,Non-Fund,Non-Fund,,2025-08-17T02:33:40.895163+00:00,f1ce931a-2b67-4c7f-b3a7-93ce31d3ce60,20250817_023231,paste_batch,minh.nguyen,app_v1,0514a4a0-c029-4642-a08d-947b5a19ebb8
+Bank of America checking account,Non-Fund,Fund,,2025-08-17T02:33:40.895163+00:00,f1ce931a-2b67-4c7f-b3a7-93ce31d3ce60,20250817_023231,paste_batch,minh.nguyen,app_v1,811f259e-fb84-4019-b300-0781d2315e2a
+Olivia Nguyen,Non-Fund,Non-Fund,,2025-08-17T02:33:40.895163+00:00,f1ce931a-2b67-4c7f-b3a7-93ce31d3ce60,20250817_023231,paste_batch,minh.nguyen,app_v1,039a0c19-0f86-44db-a9a1-8d14fdfd4a72
+Tesla Inc. – Careers,Non-Fund,Non-Fund,,2025-08-17T02:33:40.895163+00:00,f1ce931a-2b67-4c7f-b3a7-93ce31d3ce60,20250817_023231,paste_batch,minh.nguyen,app_v1,4c407044-a527-4d0d-b8a2-3fda64d79d7c
+NorthBridge Momentum Fund,Fund,Non-Fund,,2025-08-17T02:33:40.895163+00:00,f1ce931a-2b67-4c7f-b3a7-93ce31d3ce60,20250817_023231,paste_batch,minh.nguyen,app_v1,9a84485e-3efe-43c9-8140-96b8801bfcdb
+Sierra Income UCITS,Fund,Fund,,2025-08-17T02:33:40.895163+00:00,f1ce931a-2b67-4c7f-b3a7-93ce31d3ce60,20250817_023231,paste_batch,minh.nguyen,app_v1,6cdc1728-66c1-42d0-aa5e-9015b4e12a49
+Wire Transfer Receipt,Non-Fund,Fund,,2025-08-17T02:33:40.895163+00:00,f1ce931a-2b67-4c7f-b3a7-93ce31d3ce60,20250817_023231,paste_batch,minh.nguyen,app_v1,ff9fe8e0-4ec1-4de0-ab17-be54de9a55d9

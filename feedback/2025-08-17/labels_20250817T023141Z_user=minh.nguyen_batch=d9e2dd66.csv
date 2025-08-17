@@ -1,0 +1,11 @@
+name,predicted_label,correct_label,comments,timestamp_utc,batch_id,model_version,source,user_id,client_version,row_id
+Arcadia Global Equity Fund,Fund,Fund,,2025-08-17T02:31:41.059747+00:00,d9e2dd66-00b1-4fcf-8ced-0209eb8666fa,20250817_023112,paste_batch,minh.nguyen,app_v1,773cf904-7828-4145-836d-f62e796a7a7a
+BluePeak Strategic Bond ETF,Fund,Fund,,2025-08-17T02:31:41.059747+00:00,d9e2dd66-00b1-4fcf-8ced-0209eb8666fa,20250817_023112,paste_batch,minh.nguyen,app_v1,016be0a5-fa15-49b5-a0d3-2307a312e151
+Evergreen Value Trust,Fund,Fund,,2025-08-17T02:31:41.059747+00:00,d9e2dd66-00b1-4fcf-8ced-0209eb8666fa,20250817_023112,paste_batch,minh.nguyen,app_v1,1273f576-650f-416e-a95b-c995f43c24bc
+Acme Inc.,Non-Fund,Non-Fund,,2025-08-17T02:31:41.059747+00:00,d9e2dd66-00b1-4fcf-8ced-0209eb8666fa,20250817_023112,paste_batch,minh.nguyen,app_v1,d78f15fe-7bc4-4484-85ed-0ac9573a813c
+Bank of America checking account,Non-Fund,Fund,,2025-08-17T02:31:41.059747+00:00,d9e2dd66-00b1-4fcf-8ced-0209eb8666fa,20250817_023112,paste_batch,minh.nguyen,app_v1,9a3ac717-215e-4903-8816-7a74bfb7acb8
+Olivia Nguyen,Non-Fund,Non-Fund,,2025-08-17T02:31:41.059747+00:00,d9e2dd66-00b1-4fcf-8ced-0209eb8666fa,20250817_023112,paste_batch,minh.nguyen,app_v1,26d2b1a3-4eba-412a-8444-7db8cfc5f17c
+Tesla Inc. – Careers,Non-Fund,Non-Fund,,2025-08-17T02:31:41.059747+00:00,d9e2dd66-00b1-4fcf-8ced-0209eb8666fa,20250817_023112,paste_batch,minh.nguyen,app_v1,22afc0b6-846f-436e-8127-fc436ab61ed7
+NorthBridge Momentum Fund,Fund,Non-Fund,,2025-08-17T02:31:41.059747+00:00,d9e2dd66-00b1-4fcf-8ced-0209eb8666fa,20250817_023112,paste_batch,minh.nguyen,app_v1,9ef6197d-ffbd-4ccd-baed-f7ec5a816eb3
+Sierra Income UCITS,Fund,Fund,,2025-08-17T02:31:41.059747+00:00,d9e2dd66-00b1-4fcf-8ced-0209eb8666fa,20250817_023112,paste_batch,minh.nguyen,app_v1,ba52d58a-66c3-42f4-a035-1d87ca5ea96f
+Wire Transfer Receipt,Non-Fund,Non-Fund,,2025-08-17T02:31:41.059747+00:00,d9e2dd66-00b1-4fcf-8ced-0209eb8666fa,20250817_023112,paste_batch,minh.nguyen,app_v1,100badc4-4ec6-466c-b8ac-8882acd65518
